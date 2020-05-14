@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+--
+
+Github - Rstudio test 20200514 1334H
+
